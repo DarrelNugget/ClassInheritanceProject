@@ -1,0 +1,32 @@
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Desktop\Classes and Inheritance Project\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll

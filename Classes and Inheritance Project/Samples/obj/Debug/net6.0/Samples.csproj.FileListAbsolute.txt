@@ -1,0 +1,15 @@
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\bin\Debug\net6.0\Samples.exe
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\bin\Debug\net6.0\Samples.deps.json
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\bin\Debug\net6.0\Samples.runtimeconfig.json
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\bin\Debug\net6.0\Samples.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\bin\Debug\net6.0\Samples.pdb
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\refint\Samples.dll
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.pdb
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\Samples.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Desktop\ModernAppliances\Samples\obj\Debug\net6.0\ref\Samples.dll
